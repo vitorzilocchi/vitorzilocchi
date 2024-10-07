@@ -1,4 +1,4 @@
-# Hello, I'm Vitor Zilochi Teixeira 👋
+# Hello, I'm Vitor Teixeira 👋
 
 **Production Engineer | Senior Project Analyst | Data Science Enthusiast**
 
